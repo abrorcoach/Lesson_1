@@ -17,15 +17,15 @@ internal class Program
         //Console.WriteLine($"P :{GetObjectFromClass.Perimeter(12)}");
         ///////////////////// 3)
 
-        //GetObjectFromClass.Kvad(32, 12);
+        //GetObjectFromClass.Kvad(67, 98);
 
         ///////////////////// 4)
 
-        //GetObjectFromClass.Kub(6);
+        //GetObjectFromClass.Kub(4);
 
         //////////////////////// 6)
 
-        //GetObjectFromClass.Pow(5);
+        //GetObjectFromClass.Pow(7);
 
         //////////////////////////////// 7)
 
@@ -33,7 +33,7 @@ internal class Program
 
         ////////////////////////// 8)
 
-        //Console.WriteLine($" Output{GetObjectFromClass.FirstThirdNumber(1234)}");
+        //Console.WriteLine($" Output{GetObjectFromClass.FirstThirdNumber(4321)}");
 
         ///////////////////////// 9)
 
