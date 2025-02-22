@@ -78,10 +78,10 @@ internal class Program
         ///////////////// 19)
 
         //Console.WriteLine("Enter First Number A:");
-        //int num1 = int.Parse(Console.ReadLine());
+        //int numFirst = int.Parse(Console.ReadLine());
         //Console.WriteLine("Enter Second Number B:");
-        //int num2 = int.Parse(Console.ReadLine());
-        //GetObjectFromClass.ChangeNumber(num1,num2);
+        //int numSecond = int.Parse(Console.ReadLine());
+        //GetObjectFromClass.ChangeNumber(numFirst,numSecond);
 
         //////////////////////// 20)
 
