@@ -152,7 +152,7 @@ internal class Program
         /////////////////////////// 33)
 
 
-        //GetObjectFromClass.FindPositiveNegativeNum(new[] { 3, -2, 12, 0, 12 });
+        //GetObjectFromClass.FindPositiveNegativeNum(new[] { 3, -2, 42, 0, 12 });
 
 
         //////////////////////////// 34)
