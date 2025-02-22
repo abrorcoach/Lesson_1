@@ -377,23 +377,8 @@
 
         }
 
-        public void MultipleFiveTime(int num)
-        {
-            if (num > 0)
-            {
-                Console.WriteLine(num * 15);
-            }
-            else if (num < 0)
-            {
-                Console.WriteLine(num * -1);
-            }
-            else
-            {
-                Console.WriteLine("0");
-            }
-        }
 
-        public void AddOneTwo(int a)
+        public void AddOne(int a)
         {
             if (a > 0)
             {

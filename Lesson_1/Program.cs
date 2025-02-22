@@ -177,13 +177,10 @@ internal class Program
 
         //GetObjectFromClass.FindThreeInDigit(1324);
 
-        /////////////////////////// 39)
-
-        //GetObjectFromClass.MultipleFiveTime(4);
 
         /////////////////////////// 40)
 
-        //GetObjectFromClass.AddOneTwo(0);
+        //GetObjectFromClass.AddOne(0);
         
     }
 
