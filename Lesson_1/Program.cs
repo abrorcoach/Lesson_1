@@ -147,7 +147,7 @@ internal class Program
 
         /////////////////////// 32)
 
-        //Console.WriteLine(GetObjectFromClass.IfHaveThreeTrue("1232"));
+        //Console.WriteLine(GetObjectFromClass.IfHaveThreeTrue("4332"));
 
         /////////////////////////// 33)
 
