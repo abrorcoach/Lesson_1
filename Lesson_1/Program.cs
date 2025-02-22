@@ -41,7 +41,7 @@ internal class Program
 
         ////////////////////////// 10)
 
-        //GetObjectFromClass.PowSeven(4);
+        //GetObjectFromClass.PowSeven(6);
 
         ///////////////////////////// 11)
 
@@ -63,7 +63,7 @@ internal class Program
 
         ////////////////////// 16)
 
-        //Console.WriteLine(GetObjectFromClass.AddNum(435));
+        //Console.WriteLine(GetObjectFromClass.AddNum(545));
 
         //////////////////// 17)
 
