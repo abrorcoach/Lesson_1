@@ -33,7 +33,7 @@ internal class Program
 
         ////////////////////////// 8)
 
-        //Console.WriteLine($" Output{GetObjectFromClass.FirstThirdNumber(4321)}");
+        //Console.WriteLine($" Output{GetObjectFromClass.FirstThirdNumber(1234)}");
 
         ///////////////////////// 9)
 
