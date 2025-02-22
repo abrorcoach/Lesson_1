@@ -11,7 +11,7 @@ internal class Program
 
         ////////////////// 1)
 
-        //Console.WriteLine(GetObjectFromClass.ArifMath(12, 15, 21));
+        //Console.WriteLine(GetObjectFromClass.ArifMath(29, 65, 23));
         /////////////////// 2)
 
         //Console.WriteLine($"P :{GetObjectFromClass.Perimeter(12)}");
