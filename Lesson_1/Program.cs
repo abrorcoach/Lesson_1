@@ -85,7 +85,7 @@ internal class Program
 
         //////////////////////// 20)
 
-        //GetObjectFromClass.HigherThen999(-3241);
+        //GetObjectFromClass.HigherThen999(-1241);
 
         ////////////////////////// 21)
 
