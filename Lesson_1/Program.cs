@@ -63,7 +63,7 @@ internal class Program
 
         ////////////////////// 16)
 
-        //Console.WriteLine(GetObjectFromClass.AddNum(545));
+        //Console.WriteLine(GetObjectFromClass.AddNum(535));
 
         //////////////////// 17)
 
