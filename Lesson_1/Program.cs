@@ -25,7 +25,7 @@ internal class Program
 
         //////////////////////// 6)
 
-        //GetObjectFromClass.Pow(7);
+        //GetObjectFromClass.Pow(3);
 
         //////////////////////////////// 7)
 
