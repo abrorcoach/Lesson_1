@@ -167,7 +167,7 @@ internal class Program
 
         //////////////////////// 36)
 
-        //GetObjectFromClass.FindEqualABC(2, 6, 8);
+        //GetObjectFromClass.FindEqualABC(2, 4, 8);
 
         /////////////////// 37)
 
